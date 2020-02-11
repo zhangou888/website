@@ -1,0 +1,66 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Ou Zhang's Homepage"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    
+[[menu.main]]
+    name = "Home"
+    pre = ""
+    url = "/Home/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    pre = ""
+    url = "/about/"
+    weight = 2
+    
+[[menu.main]]
+    name = "Blog"
+    pre = "fa-bullhorn"
+    url = "/post/"
+    weight = 3
+    
+[[menu.main]]
+    name = "Project"
+    pre = ""
+    url = "/project/"
+    weight = 4
+    
+[[menu.main]]
+    name = "GitHub"
+    pre = "Github"
+    url = "https://github.com/zhangou888"
+    weight = 5
+    
+
+[params]
+    description = "Ou Zhang's Homepage"
+    customCSS = ["css/oz_css.css", "css/fontawesome.css"]
+    Chapter = "San Antonio, Texas"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+
+    [params.logo]
+    url = "Ou_Zhang.jpg"
+    width = 50
+    height = 50
+    alt = "Logo"
+
