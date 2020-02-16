@@ -42,9 +42,9 @@ enableEmoji = true
     
 
 [params]
-    description = "Ou Zhang's Homepage"
+    description = "Ou Zhang's Homepage" 
     customCSS = ["css/oz_css.css", "css/fontawesome.css"]
-    Chapter = "San Antonio, Texas"
+    Chapter = "Welcome to my world!"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
