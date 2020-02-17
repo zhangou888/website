@@ -13,7 +13,7 @@ Today is Sunday 2-16-2020. Alex and I went to soccer game this morning to cheer 
 
 
 
-```{r fig 1, out.width='30%', fig.align='center', fig.pos='H', fig.cap='Alex and I playing soccer'}
+```{r fig 1, out.width='30%', fig.align='center', fig.pos='H', fig.cap='Alex and I playing soccer',echo = FALSE}
 
     knitr::include_graphics("images/Alex_me_play.jpg")
 
@@ -22,7 +22,7 @@ Today is Sunday 2-16-2020. Alex and I went to soccer game this morning to cheer 
 But Alex and I had a great time this morning. We kicked soccer balls to each other. Alex made a couple of shots to the goal. I am so proud of him.
 
 
-```{r fig 2, out.width='30%', fig.align='center', fig.pos='H', fig.cap='Alex and I playing soccer'}
+```{r fig 2, out.width='30%', fig.align='center', fig.pos='H', fig.cap='Alex is kicking',echo = FALSE, out.extra=sprintf('angle=%s', c(0, 90))}
 
     knitr::include_graphics("images/Alex2.jpg")
 
