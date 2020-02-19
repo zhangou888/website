@@ -3,6 +3,7 @@ title: First post after the website is settled
 author: Ou Zhang
 date: '2020-02-16'
 slug: first-post-after-new-website-is-settled
+draft: TRUE
 output:
   blogdown::html_page:
     toc: yes
