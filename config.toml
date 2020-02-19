@@ -8,9 +8,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 enableEmoji = true
 
 
-{{ template "_internal/google_analytics.html" . }}
-{{ template "_internal/google_analytics.html" . }}
-
 [permalinks]
     post = "/:year/:month/:day/:slug/"
     
