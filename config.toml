@@ -1,11 +1,15 @@
-baseurl = "/"
+baseurl = "https://ouzhang.me/"
 languageCode = "en-us"
 title = "Ou Zhang's Homepage"
 theme = "hugo-lithium"
-googleAnalytics = ""
+googleAnalytics = "UA-20293236-2"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 enableEmoji = true
+
+
+{{ template "_internal/google_analytics.html" . }}
+{{ template "_internal/google_analytics.html" . }}
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
