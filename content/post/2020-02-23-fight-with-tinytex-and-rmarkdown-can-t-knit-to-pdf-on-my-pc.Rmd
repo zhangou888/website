@@ -1,0 +1,15 @@
+---
+title: Fight with TinyTex and Rmarkdown can't knit to PDF on my PC
+author: Ou Zhang
+date: '2020-02-23'
+slug: fight-with-tinytex-and-rmarkdown-can-t-knit-to-pdf-on-my-pc
+categories:
+  - R
+  - LaTex
+  - Rmarkdown
+tags:
+  - R Markdown
+---
+
+I started to learn R markdown since 2018. After attending RStudio conference 2019 @Austin, I decided
+write my tech report for project in R markdown. Although it's a tough process, I finally nailed it and produced at least 2 tech report in Rmarkdown 
