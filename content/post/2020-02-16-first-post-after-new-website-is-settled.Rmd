@@ -31,3 +31,10 @@ But Alex and I had a great time this morning. We kicked soccer balls to each oth
     knitr::include_graphics("/images/post/play_soccer/Alex1.jpg")
 
 ```
+
+Alex really enjoy playing soccer! I wish he improve his skill fast.
+```{r fig2, out.width='35%', fig.align='center', fig.pos='h', fig.cap='Alex is kicking',echo = FALSE, out.extra="style='transform:rotate(90deg);'"}
+
+    knitr::include_graphics("/images/post/play_soccer/Alex2.jpg")
+
+```
