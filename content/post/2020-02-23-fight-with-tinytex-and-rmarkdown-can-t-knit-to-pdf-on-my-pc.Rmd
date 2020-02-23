@@ -40,7 +40,7 @@ Then, **the reality hit me**.
 I was unable to knit any rmarkdown file to PDF document and a lengthy error message showed up. 
 Here is the error message.
 
-```{r fig3, out.width='50%', fig.align='center', fig.pos='h', fig.cap='Can't knit PDF error',echo = FALSE}
+```{r fig3, out.width='50%', fig.align='center', fig.pos='h', fig.cap='Cannot knit PDF error',echo = FALSE}
 
     knitr::include_graphics("/images/post/Tinytex/screen1.jpg")
 
@@ -66,7 +66,7 @@ After more than 2 days trials, I thought it might be a good idea to post my issu
 
 After 12 hours, I even received Yihui's reply--> Oh Yeah!
 
-```{r fig5, out.width='50%', fig.align='center', fig.pos='h', fig.cap='Yihui's reply',echo = FALSE}
+```{r fig5, out.width='50%', fig.align='center', fig.pos='h', fig.cap='Yihui reply',echo = FALSE}
 
     knitr::include_graphics("/images/post/Tinytex/yihui.jpg")
 
