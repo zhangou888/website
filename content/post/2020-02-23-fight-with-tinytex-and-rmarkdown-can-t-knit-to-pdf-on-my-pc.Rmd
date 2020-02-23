@@ -58,7 +58,7 @@ Then I went to [TinyTex webpage](https://yihui.org/tinytex/r/) and it seems like
     knitr::include_graphics("/images/post/Tinytex/tinytex.jpg")
 
 ```
-I started to try different solutions and even created an [R code](/images/post/Tinytex/tinytex_install_code.R) for the TinyTex debugging. 
+I started to try different solutions and even created an [R code](/R_code/tinytex_install_code.R) for the TinyTex debugging. 
 
 After more than 2 days trials, I thought it might be a good idea to post my issue to the online community so that the expert (probably Yihui himself) could help me out. 
 
