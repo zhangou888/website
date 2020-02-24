@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Ou Zhang&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fight with TinyTex and Rmarkdown can&#39;t knit to PDF on my PC</title>
+      <link>/2020/02/23/fight-with-tinytex-and-rmarkdown-can-t-knit-to-pdf-on-my-pc/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/23/fight-with-tinytex-and-rmarkdown-can-t-knit-to-pdf-on-my-pc/</guid>
+      <description>A little bit HistoryI started to learn R markdown since 2018.
+Figure 1: R MarkdownAfter attending RStudio conference 2019 @Austin, I decided write my tech report for project in R markdown.
+Figure 2: RStudio Conf 2019Although it’s a tough process, I finally nailed it and wrote at least 2 tech report in Rmarkdown then produced the final tech report in PDF for client.</description>
+    </item>
     
     <item>
       <title>First post after the website is settled</title>
