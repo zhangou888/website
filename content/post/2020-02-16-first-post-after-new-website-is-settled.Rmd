@@ -3,7 +3,7 @@ title: First post after the website is settled
 author: Ou Zhang
 date: '2020-02-16'
 slug: first-post-after-new-website-is-settled
-draft: FALSE
+draft: no
 output:
   blogdown::html_page:
     toc: yes
@@ -16,6 +16,7 @@ This is the first post I create afte the website is settled.
 Today is Sunday 2-16-2020. Alex and I went to soccer game this morning to cheer up my teammate. Luckily, our team won 4:1. I was injuired hitting by a 300 lbs guy with full speed on my chest 2 weeks ago. So, I couldn't dressed up and played today. 
 
 
+
 ```{r fig1, out.width='50%', fig.align='center', fig.pos='h', fig.cap='Alex and I playing soccer',echo = FALSE}
 
     knitr::include_graphics("/images/post/play_soccer/Alex_me_play.jpg")
@@ -25,16 +26,19 @@ Today is Sunday 2-16-2020. Alex and I went to soccer game this morning to cheer 
 But Alex and I had a great time this morning. We kicked soccer balls to each other. Alex made a couple of shots to the goal. I am so proud of him.
 
 
-
 ```{r fig2, out.width='35%', fig.align='center', fig.pos='h', fig.cap='Alex is kicking',echo = FALSE, out.extra="style='transform:rotate(90deg);'"}
 
-    knitr::include_graphics("/images/post/play_soccer/Alex1.jpg")
-
+    knitr::include_graphics("/images/post/Alex1.jpg")
 ```
+
+
 
 Alex really enjoy playing soccer! I wish he improve his skill fast.
+
 ```{r fig3, out.width='35%', fig.align='center', fig.pos='h', fig.cap='Alex loves play soccer',echo = FALSE, out.extra="style='transform:rotate(90deg);'"}
 
-    knitr::include_graphics("/images/post/play_soccer/Alex2.jpg")
+    knitr::include_graphics("/images/post/Alex2.jpg")
 
 ```
+
+
